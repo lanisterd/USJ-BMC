@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5fc3b0f9a4beec6c",
+        "id": "0ff024309a7ae3eb",
         "type": "tabs",
         "children": [
           {
-            "id": "45304265bf783dd0",
+            "id": "62a5bbfb73d979af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SEM I/Exam Preperation/BUS Final Exam.md",
+                "file": "Readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SEM I/Exam Preperation/BUS Final Exam.md",
+                "file": "Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SEM I/Exam Preperation/BUS Final Exam.md",
+                "file": "Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SEM I/Exam Preperation/BUS Final Exam.md"
+                "file": "Readme.md"
               }
             }
           }
@@ -147,19 +147,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "45304265bf783dd0",
+  "active": "0e46ff07c5a7aa15",
   "lastOpenFiles": [
+    "I Yr - I Sem/PUB Presentation.md",
+    "Readme.md",
+    "I Yr - I Sem/Lecture Links 1 yr 1 sem.pdf",
     "Last Yr Lec Rec.canvas",
-    "SEM I/Exam Preperation/BUS Final Exam.md",
-    "SEM I/Exam Preperation/Law Final Exam.md",
+    "I Yr - I Sem/BCC 1370 - Eng.md",
+    "I Yr - I Sem/Exam Preperation/BUS Final Exam.md",
+    "I Yr - I Sem/Exam Preperation/Law Final Exam.md",
     "Untitled",
-    "Lecture Links 1 yr 1 sem.pdf",
-    "PUB 1270 - Socio Politics.md",
-    "ITC 1370 - IT.md",
-    "BCC 1370 - Eng.md",
-    "SEM I/Exam Preperation",
+    "I Yr - I Sem/PUB 1270 - Socio Politics.md",
+    "I Yr - I Sem/ITC 1370 - IT.md",
+    "I Yr - I Sem/Exam Preperation",
     "SEM I/ITC 1370 - IT/SEM I.md",
     "SEM I/ITC 1370 - IT",
-    "SEM I"
+    "I Yr - I Sem"
   ]
 }
