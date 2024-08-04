@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readme.md",
+                "file": "Tr 1 - Sem 1/Exam Preperation/BUS Final Exam.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8047ce5723ad95c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tr 1 - Sem 1/Exam Preperation/BCC Final Exam.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readme.md",
+                "file": "Tr 1 - Sem 1/Exam Preperation/BCC Final Exam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readme.md",
+                "file": "Tr 1 - Sem 1/Exam Preperation/BCC Final Exam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readme.md"
+                "file": "Tr 1 - Sem 1/Exam Preperation/BCC Final Exam.md"
               }
             }
           }
@@ -147,21 +160,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e46ff07c5a7aa15",
+  "active": "8047ce5723ad95c7",
   "lastOpenFiles": [
-    "I Yr - I Sem/PUB Presentation.md",
+    "Tr 1 - Sem 1/Exam Preperation/BUS Final Exam.md",
+    "Tr 1 - Sem 1/Exam Preperation/Law Final Exam.md",
+    "Tr 1 - Sem 1/Exam Preperation/BCC Final Exam.md",
     "Readme.md",
-    "I Yr - I Sem/Lecture Links 1 yr 1 sem.pdf",
+    "Tr 1 - Sem 1/PUB Presentation.md",
+    "Tr 1 - Sem 1/BCC 1370 - Eng.md",
+    "Yr 1 - Sem 2",
+    "Tr 1 - Sem 1/Lecture Links 1 yr 1 sem.pdf",
     "Last Yr Lec Rec.canvas",
-    "I Yr - I Sem/BCC 1370 - Eng.md",
-    "I Yr - I Sem/Exam Preperation/BUS Final Exam.md",
-    "I Yr - I Sem/Exam Preperation/Law Final Exam.md",
-    "Untitled",
-    "I Yr - I Sem/PUB 1270 - Socio Politics.md",
-    "I Yr - I Sem/ITC 1370 - IT.md",
-    "I Yr - I Sem/Exam Preperation",
+    "Tr 1 - Sem 1/PUB 1270 - Socio Politics.md",
+    "Tr 1 - Sem 1/ITC 1370 - IT.md",
+    "Tr 1 - Sem 1/Exam Preperation",
     "SEM I/ITC 1370 - IT/SEM I.md",
     "SEM I/ITC 1370 - IT",
-    "I Yr - I Sem"
+    "Tr 1 - Sem 1"
   ]
 }
