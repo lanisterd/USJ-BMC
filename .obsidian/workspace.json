@@ -11,8 +11,12 @@
             "id": "b263ea007b55a267",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Year 1 - Sem 1/ITC 1370 - IT/ITC - Videos.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Year 1 - Sem 1/ITC 1370 - IT/ITC - Videos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Year 1 - Sem 1/ITC 1370 - IT/ITC - Videos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Year 1 - Sem 1/ITC 1370 - IT/ITC - Videos.md"
+              }
             }
           }
         ],
@@ -141,19 +149,28 @@
   },
   "active": "b263ea007b55a267",
   "lastOpenFiles": [
+    "Year 1 - Sem 1/ITC 1370 - IT/ITC - Lessons/Chapter 02 - Computer Hardware.pdf",
+    "Year 1 - Sem 1/ITC 1370 - IT/ITC - Lessons/Chapter 01 - Overview of Information Systems.pdf",
+    "Year 1 - Sem 1/ITC 1370 - IT/ITC - Videos.md",
+    "Year 1 - Sem 1/ITC 1370 - IT/ITC - Activities/Activity 05- Financial Data Analysis 20240717/05-SS-Activities-Introduction to Financial Data Analysis.pdf",
+    "Readme.md",
+    "Tr 1 - Sem 1/ITC 1370 - IT/ITC - Videos.md",
+    "Year 1 - Sem 1/ITC 1370 - IT/ITC - Activities/Activity 09- Visual Basic Macro 20240717/Macro and VBA 2024 (Part 2).pdf",
+    "Year 1 - Sem 1/ITC 1370 - IT/ITC - Activities/Activity 09- Visual Basic Macro 20240717/Macro and VBA 2024 (Part 1).pdf",
+    "Year 1 - Sem 1/ITC 1370 - IT/ITC - Activities/Activity 09- Visual Basic Macro 20240717/Activity 09-1.xlsm",
+    "Year 1 - Sem 1/ITC 1370 - IT/ITC - Activities/Activity 08- What if analysis 20240717/08 SS-Activities  - Introduction to What-if analysis_2024.xlsx",
+    "Year 1 - Sem 1/ITC 1370 - IT/ITC - Activities/Activity 08- What if analysis 20240717/08 SS-Activities  - Introduction to What-if analysis_2024.pdf",
+    "Year 1 - Sem 1/ITC 1370 - IT/ITC - Activities/Activity 07- Pivot Table 20240717/Pivot table and chart 2024.pdf",
+    "Year 1 - Sem 1/ITC 1370 - IT/ITC - Activities/Activity 07- Pivot Table 20240717/07 Activities_ Perform data analysis and summarization using pivot_Dataset.xlsx",
+    "Year 1 - Sem 1/ITC 1370 - IT/ITC - Activities/Activity 06- Data Validation 20240717/06- SS - Use data validation in MS Excel.pdf",
+    "Year 1 - Sem 1/BUS 1270 - Principles of Management/BUS - Final Exam/BUS Final Exam.md",
+    "Year 1 - Sem 1/BCC 1370 - English/BCC Final Exam/BCC Final Exam.md",
+    "Year 1 - Sem 1/PUB 1270 - Socio Politics/PUB Presentation.md",
+    "Year 1 - Sem 1/PUB 1270 - Socio Politics/PUB 1270 - Socio Politics.md",
+    "Year 1 - Sem 1/BCC 1370 - English/BCC - Videos.md",
+    "Year 1 - Sem 1/Law Final Exam.md",
     "Tr 1 - Sem 1/BCC 1370 - English/BCC - Videos.md",
-    "Tr 1 - Sem 1/BCC 1370 - English/BCC 1370 Course Outline, 2024.pdf",
-    "Tr 1 - Sem 1/BCC 1370 - English/BCC 1370 Manual 1_101411.pdf",
-    "Tr 1 - Sem 1/BCC 1370 - English/BCC Final Exam/Answers BCC.pdf",
-    "Tr 1 - Sem 1/BCC 1370 - English/BCC Final Exam/BCC 1370 2023 - Past Paper.pdf",
     "Tr 1 - Sem 1/BCC 1370 - English/BCC Final Exam/BCC Final Exam.md",
-    "Tr 1 - Sem 1/BCC 1370 - English/BCC - Lessons/Letters of Inquiry.pdf",
-    "Tr 1 - Sem 1/BCC 1370 - English/BCC - Lessons/Example of Letter of Inquiry.pdf",
-    "Tr 1 - Sem 1/BCC 1370 - English/BCC - Lessons/Tenses Overview.pdf",
-    "Tr 1 - Sem 1/BCC 1370 - English/BCC - Lessons/Letter Writing Slides.pdf",
-    "Tr 1 - Sem 1/BCC 1370 - English/BCC - Lessons/Reading Skills Intro,Skimming and scanning.pdf",
-    "Tr 1 - Sem 1/ITC 1370 - IT.md",
-    "Tr 1 - Sem 1/Final Exam TimeTable.pdf",
     "Tr 1 - Sem 1/Law Final Exam.md",
     "2024-08-05.md",
     "Untitled.canvas",
@@ -161,7 +178,6 @@
     "Tr 1 - Sem 1/PUB 1270 - Socio Politics/PUB 1270 - Socio Politics.md",
     "Untitled.md",
     "Tr 1 - Sem 1/PUB 1270 - Socio Politics/PUB Presentation.md",
-    "Readme.md",
     "Last Yr Lec Rec.canvas",
     "SEM I/ITC 1370 - IT/SEM I.md"
   ]
