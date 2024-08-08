@@ -11,11 +11,9 @@
             "id": "b263ea007b55a267",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Year 1 - Sem 1/ITC 1370 - IT/ITC - Videos.md",
-                "mode": "source",
-                "source": false
+                "file": "Year 1 - Sem 1/ITC 1370 - IT/IT Practical.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 1 - Sem 1/ITC 1370 - IT/ITC - Videos.md",
+                "file": "Year 1 - Sem 1/ITC 1370 - IT/IT Practical.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year 1 - Sem 1/ITC 1370 - IT/ITC - Videos.md",
+                "file": "Year 1 - Sem 1/ITC 1370 - IT/IT Practical.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 1 - Sem 1/ITC 1370 - IT/ITC - Videos.md"
+                "file": "Year 1 - Sem 1/ITC 1370 - IT/IT Practical.pdf"
               }
             }
           }
@@ -149,9 +147,9 @@
   },
   "active": "b263ea007b55a267",
   "lastOpenFiles": [
+    "Year 1 - Sem 1/ITC 1370 - IT/ITC - Videos.md",
     "Year 1 - Sem 1/ITC 1370 - IT/ITC - Lessons/Chapter 02 - Computer Hardware.pdf",
     "Year 1 - Sem 1/ITC 1370 - IT/ITC - Lessons/Chapter 01 - Overview of Information Systems.pdf",
-    "Year 1 - Sem 1/ITC 1370 - IT/ITC - Videos.md",
     "Year 1 - Sem 1/ITC 1370 - IT/ITC - Activities/Activity 05- Financial Data Analysis 20240717/05-SS-Activities-Introduction to Financial Data Analysis.pdf",
     "Readme.md",
     "Tr 1 - Sem 1/ITC 1370 - IT/ITC - Videos.md",
@@ -162,7 +160,6 @@
     "Year 1 - Sem 1/ITC 1370 - IT/ITC - Activities/Activity 08- What if analysis 20240717/08 SS-Activities  - Introduction to What-if analysis_2024.pdf",
     "Year 1 - Sem 1/ITC 1370 - IT/ITC - Activities/Activity 07- Pivot Table 20240717/Pivot table and chart 2024.pdf",
     "Year 1 - Sem 1/ITC 1370 - IT/ITC - Activities/Activity 07- Pivot Table 20240717/07 Activities_ Perform data analysis and summarization using pivot_Dataset.xlsx",
-    "Year 1 - Sem 1/ITC 1370 - IT/ITC - Activities/Activity 06- Data Validation 20240717/06- SS - Use data validation in MS Excel.pdf",
     "Year 1 - Sem 1/BUS 1270 - Principles of Management/BUS - Final Exam/BUS Final Exam.md",
     "Year 1 - Sem 1/BCC 1370 - English/BCC Final Exam/BCC Final Exam.md",
     "Year 1 - Sem 1/PUB 1270 - Socio Politics/PUB Presentation.md",
