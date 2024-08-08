@@ -4,17 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "a22bfd38309b8102",
+        "id": "224334d6da804ea1",
         "type": "tabs",
         "children": [
           {
-            "id": "b263ea007b55a267",
+            "id": "4276c7de10fba57b",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Year 1 - Sem 1/ITC 1370 - IT/Notes - Ext/Past Papers/ICT ans 2021/itc 1340 paper 04 answers.pdf"
+                "file": "Year 1 - Sem 1/ITC 1370 - IT/Notes - Ext/information technology 1 st sem 2.pdf"
               }
+            }
+          },
+          {
+            "id": "0abf6979b343869a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 1 - Sem 1/ITC 1370 - IT/Notes - Ext/Past Papers/ICT ans 2021/itc 1340 paper 04 answers.pdf",
+                "file": "Year 1 - Sem 1/ITC 1370 - IT/Notes - Ext/information technology 1 st sem 2.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year 1 - Sem 1/ITC 1370 - IT/Notes - Ext/Past Papers/ICT ans 2021/itc 1340 paper 04 answers.pdf",
+                "file": "Year 1 - Sem 1/ITC 1370 - IT/Notes - Ext/information technology 1 st sem 2.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 1 - Sem 1/ITC 1370 - IT/Notes - Ext/Past Papers/ICT ans 2021/itc 1340 paper 04 answers.pdf"
+                "file": "Year 1 - Sem 1/ITC 1370 - IT/Notes - Ext/information technology 1 st sem 2.pdf"
               }
             }
           }
@@ -145,19 +153,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b263ea007b55a267",
+  "active": "4276c7de10fba57b",
   "lastOpenFiles": [
-    "Year 1 - Sem 1/ITC 1370 - IT/Notes - Ext/Past Papers/ICT ans 2021/ITC 1340 Paper 02 answers.pdf",
-    "Year 1 - Sem 1/ITC 1370 - IT/Notes - Ext/Past Papers/ICT ans 2021/ITC 1340 Paper 01 answers.pdf",
-    "Year 1 - Sem 1/ITC 1370 - IT/Notes - Ext/Past Papers/ICT ans 2021/Paper 1.pdf",
-    "Readme.md",
-    "Year 1 - Sem 1/ITC 1370 - IT/ITC - Activities/Activity 09- Visual Basic Macro 20240717/Macro and VBA 2024 (Part 2).pdf",
+    "Year 1 - Sem 1/ITC 1370 - IT/Notes - Ext/information technology 1 st sem 2.pdf",
+    "Year 1 - Sem 1/ITC 1370 - IT/Quections and answers ICT.pdf",
+    "Year 1 - Sem 1/ITC 1370 - IT/Final Exam/ITC 1370 2023.pdf",
+    "Year 1 - Sem 1/ITC 1370 - IT/Final Exam/ITC 1370 2022.pdf",
+    "Year 1 - Sem 1/ITC 1370 - IT/Final Exam/ITC Final Exam.md",
     "Year 1 - Sem 1/ITC 1370 - IT/IT Practical.pdf",
-    "Year 1 - Sem 1/ITC 1370 - IT/Notes - Ext/Past Papers/ICT ans 2021/itc 1340 paper 03 answers.pdf",
-    "Year 1 - Sem 1/ITC 1370 - IT/Notes - Ext/Past Papers/ICT ans 2021/Paper 3.pdf",
-    "Year 1 - Sem 1/ITC 1370 - IT/Notes - Ext/Past Papers/ICT ans 2021/Paper 2.pdf",
-    "Year 1 - Sem 1/ITC 1370 - IT/Notes - Ext/ITC 1340/IT Lesson 7.pdf",
-    "Year 1 - Sem 1/ITC 1370 - IT/Notes - Ext/ITC 1340/summary of functions.pdf",
+    "Academic-Calendar-2024-amended-on-01-08-2024.pdf",
+    "Year 1 - Sem 1/ITC 1370 - IT/ITC - Lessons/ITC 1370 - Introduction to Programming.pdf",
+    "Year 1 - Sem 1/ITC 1370 - IT/ITC - Lessons/Chapter 08- Interactive Session People in IS.pdf",
+    "Year 1 - Sem 1/ITC 1370 - IT/ITC - Lessons/Chapter 08- The People in Information Systems.pdf",
+    "Year 1 - Sem 1/ITC 1370 - IT/ITC - Lessons/Chapter 09- Information Systems Development .pdf",
+    "Year 1 - Sem 1/ITC 1370 - IT/ITC - Lessons/ITC 1370 - Word Processing Application - Self Study Manual.pdf",
+    "Readme.md",
     "Year 1 - Sem 1/ITC 1370 - IT/ITC - Videos.md",
     "Tr 1 - Sem 1/ITC 1370 - IT/ITC - Videos.md",
     "Year 1 - Sem 1/BUS 1270 - Principles of Management/BUS - Final Exam/BUS Final Exam.md",
@@ -173,7 +183,6 @@
     "Untitled.canvas",
     "Tr 1 - Sem 1/BUS 1270 - Principles of Management/BUS - Final Exam/BUS Final Exam.md",
     "Tr 1 - Sem 1/PUB 1270 - Socio Politics/PUB 1270 - Socio Politics.md",
-    "Untitled.md",
     "Tr 1 - Sem 1/PUB 1270 - Socio Politics/PUB Presentation.md",
     "Last Yr Lec Rec.canvas",
     "SEM I/ITC 1370 - IT/SEM I.md"
