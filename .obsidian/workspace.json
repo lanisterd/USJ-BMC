@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4276c7de10fba57b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Year 1 - Sem 1/ITC 1370 - IT/Notes - Ext/information technology 1 st sem 2.pdf"
-              }
-            }
-          },
-          {
             "id": "0abf6979b343869a",
             "type": "leaf",
             "state": {
@@ -75,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 462.5124969482422
   },
   "right": {
     "id": "a66b103ab6ff5d18",
@@ -91,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 1 - Sem 1/ITC 1370 - IT/Notes - Ext/information technology 1 st sem 2.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year 1 - Sem 1/ITC 1370 - IT/Notes - Ext/information technology 1 st sem 2.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Year 1 - Sem 1/ITC 1370 - IT/Notes - Ext/information technology 1 st sem 2.pdf"
-              }
+              "state": {}
             }
           }
         ],
@@ -153,7 +139,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4276c7de10fba57b",
+  "active": "0abf6979b343869a",
   "lastOpenFiles": [
     "Year 1 - Sem 1/ITC 1370 - IT/Notes - Ext/information technology 1 st sem 2.pdf",
     "Year 1 - Sem 1/ITC 1370 - IT/Quections and answers ICT.pdf",
