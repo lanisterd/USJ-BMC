@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6c2dccef64bd5f4f",
+        "id": "e5fc074598e50c75",
         "type": "tabs",
         "children": [
           {
-            "id": "f6dcd77cda9c1c70",
+            "id": "7dfb3ddd84fcbb86",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Year 01/Semester 01/PUB 1270 - Socio Politics/PUB Lecture Recordings.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 462.5124969482422
+    "width": 439.5124969482422
   },
   "right": {
     "id": "a66b103ab6ff5d18",
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 01/Semester 01/PUB 1270 - Socio Politics/PUB Lecture Recordings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year 01/Semester 01/PUB 1270 - Socio Politics/PUB Lecture Recordings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Year 01/Semester 01/PUB 1270 - Socio Politics/PUB Lecture Recordings.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -147,33 +139,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f6dcd77cda9c1c70",
+  "active": "7dfb3ddd84fcbb86",
   "lastOpenFiles": [
-    "Year 01/Semester 01/LAW/Course Guide_2024.pdf",
-    "Year 01/Semester 01/LAW/Course Outline_For students.pdf",
-    "Year 01/Semester 01/LAW/B1.pdf",
-    "Year 01/Semester 01/LAW/Lesson 01-Introduction to Organisation and Management - 2024.pdf",
-    "Year 01/Semester 01/LAW/Lesson 01-Daft_2021_Chapter 01.pdf",
-    "Year 01/Semester 01/LAW/Lesson 01-Robbins, Coulter  DeCenzo_2020_Chapter 01.pdf",
-    "Year 01/Semester 01/LAW/Lesson 02 - Students Copy.pdf",
-    "Year 01/Semester 01/LAW/Lesson 02-Robbins, Coulter  DeCenzo_2020_Chapter 01.pdf",
-    "Year 01/Semester 01/LAW/Lesson 02-Daft_2021_Chapter 02.pdf",
-    "Year 01/Semester 01/LAW",
-    "Year 01/Semester 01/New folder",
+    "Year 01/Semester 02/Semester 02.md",
     "Year 01/Semester 01/Semester 01.md",
+    "Year 01/Semester 01/BUS 1270 - Principles of Management/BUS - Course Guide_2024.pdf",
+    "Year 01/Semester 01/BUS 1270 - Principles of Management/BUS - Course Outline_For students.pdf",
+    "Year 01/Semester 01/LAW/Law Final Exam.md",
+    "Year 01/Semester 01/BUS 1270 - Principles of Management/BUS - Assignments/Continuous Assessment/Continuous Assessment 01  - BUS 1370 – Principles of Management.pdf",
+    "Year 01/Semester 01/BUS 1270 - Principles of Management/BUS - Assignments/Continuous Assessment/B1 Assignment Marks.pdf",
+    "Year 01/Semester 01/BUS 1270 - Principles of Management/BUS - Assignments/Continuous Assessment",
+    "Year 01/Semester 01/BUS 1270 - Principles of Management/BUS - Assignments/Assignment - Organisational control 2024.pdf",
+    "Year 01/Semester 01/BUS 1270 - Principles of Management/BUS - Assignments/A Case Study of Amul Co-operative Model - For Students.pdf",
+    "Year 01/Semester 01/BUS 1270 - Principles of Management/BUS - Assignments",
+    "Year 01/Semester 01/BUS 1270 - Principles of Management/BUS - Lessons/Lesson 12 - Diversity and Management.pdf",
+    "Year 01/Semester 01/BUS 1270 - Principles of Management/BUS - Lessons/Lesson 11 - Alternative Approaches to Management.pdf",
+    "Year 01/Semester 01/BUS 1270 - Principles of Management/BUS Lecture Recordings.md",
+    "Year 01/Semester 01/BUS 1270 - Principles of Management/BUS - Final Exam/BUS Final Exam.md",
     "Year 01/Semester 01/PUB 1270 - Socio Politics/PUB Lecture Recordings.md",
     "Year 01/Semester 01/PUB 1270 - Socio Politics/PUB 1270 - Socio Politics.md",
     "Year 01/Semester 01/PUB 1270 - Socio Politics/PUB Presentation.md",
-    "Year 01/Semester 02/Semester 02.md",
     "Year 01/Semester 01/BCC 1370 - English/BCC Final Exam/BCC Final Exam.md",
-    "Year 01/Semester 01/Law Final Exam.md",
     "Year 01/Semester 01/BCC 1370 - English/BCC - Videos.md",
     "Year 01/Semester 01/ITC 1370 - IT/Final Exam/ITC Final Exam.md",
     "Year 01/Semester 01/ITC 1370 - IT/ITC - Videos.md",
     "Readme.md",
     "Year 1 - Sem 1/Untitled.md",
     "Tr 1 - Sem 1/ITC 1370 - IT/ITC - Videos.md",
-    "Year 01/Semester 01/BUS 1270 - Principles of Management/BUS - Final Exam/BUS Final Exam.md",
     "Tr 1 - Sem 1/BCC 1370 - English/BCC - Videos.md",
     "Tr 1 - Sem 1/BCC 1370 - English/BCC Final Exam/BCC Final Exam.md",
     "Tr 1 - Sem 1/Law Final Exam.md",
