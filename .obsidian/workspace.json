@@ -11,8 +11,10 @@
             "id": "0abf6979b343869a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "Year 1 - Sem 1/ITC 1370 - IT/ITC - Lessons/ITC 1370 - Word Processing Application - Self Study Manual.pdf"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Year 1 - Sem 1/ITC 1370 - IT/ITC - Lessons/ITC 1370 - Word Processing Application - Self Study Manual.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Year 1 - Sem 1/ITC 1370 - IT/ITC - Lessons/ITC 1370 - Word Processing Application - Self Study Manual.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Year 1 - Sem 1/ITC 1370 - IT/ITC - Lessons/ITC 1370 - Word Processing Application - Self Study Manual.pdf"
+              }
             }
           }
         ],
@@ -139,19 +145,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e46ff07c5a7aa15",
+  "active": "0abf6979b343869a",
   "lastOpenFiles": [
-    "Year 1 - Sem 1/ITC 1370 - IT/ITC - Activities/Activity 04-20240808/Sorting and filtering.pdf",
-    "Year 1 - Sem 1/ITC 1370 - IT/ITC - Activities/Activity 04-20240808/Perform Data analysis and summarization using sorting.xlsx",
-    "Year 1 - Sem 1/ITC 1370 - IT/ITC - Activities/Activity 04-20240808/Filtering.xlsx",
-    "Year 1 - Sem 1/ITC 1370 - IT/ITC - Activities/Activity 04-20240808",
-    "Year 1 - Sem 1/ITC 1370 - IT/ITC - Activities/Activity 03-20240808/03- SS-Activities  - Application of logical, lookup and reference functions in data processing.pdf",
-    "Year 1 - Sem 1/ITC 1370 - IT/ITC - Activities/Activity 03-20240808/03- SS-Activities  - Activities Data.xlsx",
-    "Year 1 - Sem 1/ITC 1370 - IT/ITC - Activities/Activity 03-20240808",
-    "Year 1 - Sem 1/ITC 1370 - IT/ITC - Activities/Activity 02-20240808/02- SS-Activities   - Application of Function Library.pdf",
-    "Year 1 - Sem 1/ITC 1370 - IT/ITC - Activities/Activity 02-20240808/02- SS-Activities   - Activities Data.xlsx",
-    "Year 1 - Sem 1/ITC 1370 - IT/ITC - Activities/Activity 02-20240808",
-    "Year 1 - Sem 1/ITC 1370 - IT/ITC - Activities/Activity 01-20240808/01 SS-Activities for students.xlsx",
+    "Year 1 - Sem 1/ITC 1370 - IT/ITC - Lessons/ITC 1370 - Introduction to Programming.pdf",
+    "Year 1 - Sem 1/ITC 1370 - IT/ITC - Lessons/Chapter 09- Interactive Session Answers.pdf",
+    "Year 1 - Sem 1/ITC 1370 - IT/ITC - Lessons/Chapter 09- Information Systems Development .pdf",
+    "Year 1 - Sem 1/ITC 1370 - IT/ITC - Lessons/Chapter 08- The People in Information Systems.pdf",
+    "Year 1 - Sem 1/ITC 1370 - IT/ITC - Lessons/Chapter 08- Interactive Session People in IS.pdf",
+    "Year 1 - Sem 1/ITC 1370 - IT/ITC - Lessons/Chapter 07 - Business Processes.pdf",
+    "Year 1 - Sem 1/ITC 1370 - IT/ITC - Lessons/Chapter 06 - Information Systems Security.pdf",
+    "Year 1 - Sem 1/ITC 1370 - IT/ITC - Lessons/Chapter 05  Networking and Communication.pdf",
+    "Year 1 - Sem 1/ITC 1370 - IT/ITC - Lessons/Chapter 04- Data and Databases (1).pdf",
+    "Year 1 - Sem 1/ITC 1370 - IT/ITC - Lessons/Chapter 01 - Overview of Information Systems.pdf",
+    "Year 1 - Sem 1/ITC 1370 - IT/Notes - Ext/information technology 1 st sem 2.pdf",
     "Year 1 - Sem 1/ITC 1370 - IT/Final Exam/ITC Final Exam.md",
     "Readme.md",
     "Year 1 - Sem 1/ITC 1370 - IT/ITC - Videos.md",
