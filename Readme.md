@@ -1,10 +1,13 @@
 Hello!
 
-These are notes by Danidu Nanayakkara
+These notes are taken by Danidu Nanayakkara.
+
+Modules:
+[[Semester 01]]
+[[Semester 02]]
 
 University of Sri Jayewardenepura
 Faculty of Management Studies and Commerce
-
 Copyright 2024
 
 Notes are taken using [Obsidian](https://obsidian.md).

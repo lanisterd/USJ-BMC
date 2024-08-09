@@ -9,3 +9,6 @@
         - The examination will cover the practical topics discussed up until the end of the refreshing week.
     4. Both theory and practical question types are similar to those of quizzes you have already attempted during the lectures.
     5. You are allowed to answer ONLY in English language for Type-in questions (Not allowed to answer in Sinhala, Tamil, Singlish or any other language). However, a Sinhala translation for each question will be given to you.
+
+
+[[Semester 01]]

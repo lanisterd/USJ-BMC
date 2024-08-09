@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "224334d6da804ea1",
+        "id": "6c2dccef64bd5f4f",
         "type": "tabs",
         "children": [
           {
-            "id": "0abf6979b343869a",
+            "id": "66889fc5b9f2cbf1",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Year 1 - Sem 1/ITC 1370 - IT/ITC - Lessons/ITC 1370 - Word Processing Application - Self Study Manual.pdf"
+                "file": "Year 01/Semester 01/Semester 01.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 1 - Sem 1/ITC 1370 - IT/ITC - Lessons/ITC 1370 - Word Processing Application - Self Study Manual.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year 1 - Sem 1/ITC 1370 - IT/ITC - Lessons/ITC 1370 - Word Processing Application - Self Study Manual.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 1 - Sem 1/ITC 1370 - IT/ITC - Lessons/ITC 1370 - Word Processing Application - Self Study Manual.pdf"
+                "file": "Untitled.md"
               }
             }
           }
@@ -145,29 +145,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0abf6979b343869a",
+  "active": "0e46ff07c5a7aa15",
   "lastOpenFiles": [
-    "Year 1 - Sem 1/ITC 1370 - IT/ITC - Lessons/ITC 1370 - Introduction to Programming.pdf",
-    "Year 1 - Sem 1/ITC 1370 - IT/ITC - Lessons/Chapter 09- Interactive Session Answers.pdf",
-    "Year 1 - Sem 1/ITC 1370 - IT/ITC - Lessons/Chapter 09- Information Systems Development .pdf",
-    "Year 1 - Sem 1/ITC 1370 - IT/ITC - Lessons/Chapter 08- The People in Information Systems.pdf",
-    "Year 1 - Sem 1/ITC 1370 - IT/ITC - Lessons/Chapter 08- Interactive Session People in IS.pdf",
-    "Year 1 - Sem 1/ITC 1370 - IT/ITC - Lessons/Chapter 07 - Business Processes.pdf",
-    "Year 1 - Sem 1/ITC 1370 - IT/ITC - Lessons/Chapter 06 - Information Systems Security.pdf",
-    "Year 1 - Sem 1/ITC 1370 - IT/ITC - Lessons/Chapter 05  Networking and Communication.pdf",
-    "Year 1 - Sem 1/ITC 1370 - IT/ITC - Lessons/Chapter 04- Data and Databases (1).pdf",
-    "Year 1 - Sem 1/ITC 1370 - IT/ITC - Lessons/Chapter 01 - Overview of Information Systems.pdf",
-    "Year 1 - Sem 1/ITC 1370 - IT/Notes - Ext/information technology 1 st sem 2.pdf",
-    "Year 1 - Sem 1/ITC 1370 - IT/Final Exam/ITC Final Exam.md",
+    "LAW 1270 - Law",
+    "Year 01/Semester 01/Semester 01.md",
+    "Untitled.md",
+    "Year 01/Semester 02/Semester 02.md",
+    "Year 01/Semester 01/BCC 1370 - English/BCC Final Exam/BCC Final Exam.md",
+    "Year 01/Semester 01/Law Final Exam.md",
+    "Year 01/Semester 01/BCC 1370 - English/BCC - Videos.md",
+    "Year 01/Semester 01/ITC 1370 - IT/Final Exam/ITC Final Exam.md",
+    "Year 01/Semester 01/ITC 1370 - IT/ITC - Videos.md",
+    "Year 01/Semester 01/ITC 1370 - IT/Quections and answers ICT.pdf",
     "Readme.md",
-    "Year 1 - Sem 1/ITC 1370 - IT/ITC - Videos.md",
+    "Year 01/Semester 01/ITC 1370 - IT/ITC - Lessons/ITC 1370 - Word Processing Application - Self Study Manual.pdf",
+    "Year 01",
+    "Year 1 - Sem 1/Untitled.md",
+    "Year 01/Semester 01/ITC 1370 - IT/ITC - Activities/Macro Activities/Test .xlsm",
+    "Year 01/Semester 01/ITC 1370 - IT/ITC - Activities/Macro Activities/Self_Study_01.xlsm",
+    "Year 01/Semester 01/ITC 1370 - IT/ITC - Activities/Macro Activities/Macro and VBA 2024 - Updated.pdf",
+    "Year 01/Semester 01/ITC 1370 - IT/ITC - Activities/Macro Activities/Example 2.xlsm",
+    "Year 01/Semester 01/ITC 1370 - IT/ITC - Activities/Macro Activities/Activity 09-6.xlsm",
+    "Year 01/Semester 01/ITC 1370 - IT/ITC - Activities/Macro Activities/Activity 09-1.xlsm",
+    "Year 01/Semester 01/ITC 1370 - IT/ITC - Activities/Macro Activities",
     "Tr 1 - Sem 1/ITC 1370 - IT/ITC - Videos.md",
-    "Year 1 - Sem 1/BUS 1270 - Principles of Management/BUS - Final Exam/BUS Final Exam.md",
-    "Year 1 - Sem 1/BCC 1370 - English/BCC Final Exam/BCC Final Exam.md",
-    "Year 1 - Sem 1/PUB 1270 - Socio Politics/PUB Presentation.md",
-    "Year 1 - Sem 1/PUB 1270 - Socio Politics/PUB 1270 - Socio Politics.md",
-    "Year 1 - Sem 1/BCC 1370 - English/BCC - Videos.md",
-    "Year 1 - Sem 1/Law Final Exam.md",
+    "Year 01/Semester 01/BUS 1270 - Principles of Management/BUS - Final Exam/BUS Final Exam.md",
+    "Year 01/Semester 01/PUB 1270 - Socio Politics/PUB Presentation.md",
+    "Year 01/Semester 01/PUB 1270 - Socio Politics/PUB 1270 - Socio Politics.md",
     "Tr 1 - Sem 1/BCC 1370 - English/BCC - Videos.md",
     "Tr 1 - Sem 1/BCC 1370 - English/BCC Final Exam/BCC Final Exam.md",
     "Tr 1 - Sem 1/Law Final Exam.md",
